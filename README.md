@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 # Introduction 
-My name is Chris and welcome to my Github!
+My name is Chris and I am from the U.S.!
 
-I am a Python programmer who is interested in NLP topics. At the moment, I am currently trying to learn Java! 
-Please check out some of my projects.
+
+# Current Projects 
+I am a Python programmer who is interested in NLP topics. At the moment, I am currently trying to learn Java as well.
