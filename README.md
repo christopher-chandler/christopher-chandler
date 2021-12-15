@@ -8,29 +8,10 @@ I am an 🇺🇸  based in 🇩🇪. I have been interested in computers for my 
 
 My goal is to get into deep learning to better perform NLP tasks and to understand the deeper side of things. 
 
+If you have any questiosn or wish to contact me, please do so at christohper.chandler@outlook.de
 
-# Github Overview
+## Github Overview
+[![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=christopher-chandler&theme=cobalt)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-chandler)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopher-chandler)](https://github.com/anuraghazra/github-readme-stats)
-
-
-#### Qualifications 
-
-
-#### Work Experience 
-
-
-
-#### QUALIFICATIONS 👨🏻‍🎓
- 
-
-#### WORK EXPERIENCE 👨🏻‍💻
- 
-
-#### SKILLS 🛠
- 
-
-
-#### INTERESTS ⚙️
+## Top lang
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-chandler)]
