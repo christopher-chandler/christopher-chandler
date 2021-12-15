@@ -11,9 +11,9 @@ My goal is to get into deep learning to better perform NLP tasks and to understa
 
 # Github Overview
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherchandler)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-chandler)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopherchandler)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopher-chandler)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Qualifications 
