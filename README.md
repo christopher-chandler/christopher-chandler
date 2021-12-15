@@ -10,8 +10,8 @@ My goal is to get into deep learning to better perform NLP tasks and to understa
 
 If you have any questiosn or wish to contact me, please do so at christohper.chandler@outlook.de
 
-## Github Overview
+### Github Overview
 ![Overview](https://github-readme-stats.vercel.app/api?username=christopher-chandler&theme=cobalt)
 
-## Top lang
+### Top lang
 ![Overview](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-chandler&theme=cobalt)
