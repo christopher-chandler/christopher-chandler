@@ -38,8 +38,11 @@ I enjoy reading novels, espeically non-fiction. At the moment, I spend a lot of 
 
 ### Podcast 
 
-I am super into podcasts
+I am super into podcasts and I have created one of my own to talk about ![American culture](https://open.spotify.com/show/1PJKOQG5hVyZRTNrs2IwBl). Feel free to check it out!
 
+
+## Goals 
+I want to contribute to worthwhile projects and improve my coding skills. 
 My goal is to get into deep learning to better perform NLP tasks and to understand the deeper side of things. 
 
 
