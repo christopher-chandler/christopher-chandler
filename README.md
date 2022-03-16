@@ -34,12 +34,11 @@ Besides programming, I am very much interseted in languages.
 My love for languages also extends to poetry. I am currently working on a couple of poetry books. I have been writing poetry for almost 15 years now and I would consider it to be a greater passion of mine than even coding. 
 
 ### Reading 
-
-I enjoy 
+I enjoy reading novels, espeically non-fiction. At the moment, I spend a lot of time reading on my kindle whenver I get the chance. 
 
 ### Podcast 
 
-I am super into podcasts, 
+I am super into podcasts
 
 My goal is to get into deep learning to better perform NLP tasks and to understand the deeper side of things. 
 
