@@ -1,3 +1,9 @@
+### Introduction
+
+Hello everyone, my name is Christopher Chandler  and I am an aspiring programmer! 
+
+If you speak Japanese, feel free to call me 栗栖! If you do not speak Japanese, please simply call me Chris!
+
 ### Overview
 
 ### Github Overview
@@ -9,11 +15,6 @@
 ## Current Projects 
 [i2pdf](https://github.com/christopher-chandler/i2pdf)
 
-### Introduction
-
-Hello everyone, my name is Christopher Chandler ! 
-
-If you speak Japanese, feel free to call me 栗栖! If you do not speak Japanese, please simply call me Chris!
 
 ![gift](giphy.gif)
 
