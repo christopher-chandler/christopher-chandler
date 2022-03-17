@@ -38,8 +38,8 @@ Besides programming, I am very much interseted in languages.
 * German (C2)
 * French (C1)
 * Japanese (C1)
-* I have also Dabelled in 
-  * Russian, Italian, Korean, Chinese, and Spanish 
+* I have also dabelled in 
+  * Chinese, Italian, Russian, and Spanish. 
 
 ### Poetry
 My love for languages also extends to poetry. I am currently working on a couple of poetry books. I have been writing poetry for almost 15 years now and I would consider it to be a greater passion of mine than even coding. 
