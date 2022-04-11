@@ -1,6 +1,6 @@
 ### Introduction
 
-Hello everyone, my name is Christopher Chandler  and I am an aspiring programmer! 
+Hello everyone, my name is Christopher Chandler and I am an aspiring programmer! 
 
 If you speak Japanese, feel free to call me 栗栖! If you do not speak Japanese, please simply call me Chris!
 
