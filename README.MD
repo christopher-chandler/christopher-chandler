@@ -19,11 +19,13 @@
     An aspiring programmer who wants to specialise in NLP and deep learning.
     <br />
     <br />
-</div>
+ 
 
 ![Overview](https://github-readme-stats.vercel.app/api?username=christopher-chandler&theme=cobalt)
 <br>
 ![Overview](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-chandler&theme=cobalt)
+
+</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
