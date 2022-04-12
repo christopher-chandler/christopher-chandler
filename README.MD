@@ -54,7 +54,8 @@
 
 Hello everyone, my name is Christopher Chandler, and I am an aspiring programmer! 
 If you speak Japanese, then please feel free to call me <ruby><rb>栗栖</rb><rt>クリス</rt><ruby>! 
-If you do not speak Japanese, then please simply call me Chris!
+If you do not speak Japanese, then please simply call me Chris! And if you are Japanese, then
+I am sure that you will understand my logo. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -91,18 +92,26 @@ where I talk about [American culture](https://open.spotify.com/show/1PJKOQG5hVyZ
 Feel free to check it out!
 
 ## Goals
-I want to contribute to worthwhile projects and improve my coding skills. 
-I also hope to be able to teach coding to those who are willing to learn.
-My goal is to get into deep learning to better perform NLP tasks and to understand the deeper side of things.
+```
+Thousands of candles can be lit from a single candle, 
+and the life of the candle will not be shortened. 
+Happiness never decreases by being shared.
+
+- Buddha 
+```
+I want to contribute to worthwhile projects and improve my coding skills in the process.
+I also hope to be able to teach coding to those who are also willing to learn.
+My biggest goal is to get into deep learning to better perform NLP tasks 
+and to understand the deeper side of things.
 
 
 <!-- CONTRIBUTING -->
 ## Collaboration
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create.
+Contributions and collaborations are what make the open source community such an amazing place to learn, inspire, and create.
 Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request.
+If you have a suggestion that would make any of my projects better, please fork the respective repo and create a pull request.
 You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
@@ -114,6 +123,10 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+I am highly interested in colloborating. Even if it is not within the realm of deep learning or NLP,
+please feel free to contact me. Maybe we can both discover something new, who knows? 
+
 <!-- CONTACT -->
 ## Contact
 
@@ -122,7 +135,6 @@ Christopher Chandler - christopher.chandler@outlook.de
 Project Link: [https://github.com/christopher-chandler/repo_name](https://github.com/christopher-chandler/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
