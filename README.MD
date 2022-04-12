@@ -16,7 +16,7 @@
 <h3 align="center">Christopher M. Chandler </h3>
 
   <p align="center">
-    An aspiring programmer who wants to specialise in NLP and deep learning.
+    An aspiring  programmer and language nerd who wants to specialise in NLP and deep learning.
     <br />
     <br />
  
@@ -37,12 +37,13 @@
     <li>
       <a href="#About-me">About me</a>
       <ul>
-        <li><a href="#prerequisites">Languages</a></li>
-        <li><a href="#installation">Literature</a></li>
-        <li><a href="#installation">Podcast</a></li>
+        <li><a href="#Languages">Languages</a></li>
+        <li><a href="#Literature">Literature</a></li>
+        <li><a href="#Podcast">Podcast</a></li>
        </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#Goals">Goals</a></li>
+    <li><a href="#Collaboration">Collaboration</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -52,38 +53,46 @@
 ## Introduction 
 
 Hello everyone, my name is Christopher Chandler, and I am an aspiring programmer! 
-If you speak Japanese, then please feel free to call me <ruby><rb>栗栖</rb><rt>くりす</rt><ruby>! 
-If you do not speak Japanese, please simply call me Chris!
+If you speak Japanese, then please feel free to call me <ruby><rb>栗栖</rb><rt>クリス</rt><ruby>! 
+If you do not speak Japanese, then please simply call me Chris!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 ## About me
-I am an American  based in Germany. I have been interested in computers for my whole life, but I got into programming at the end of 2019. I am working on a multitude of passion projects and tools at the moment to improve my coding skills. I am mostly interested in NLP tasks, as that was my minor in my double major:
+I am an American based in Germany at the moment. 
+I have been interested in computers for my whole life, 
+but I got into programming at the end of 2019. 
+I am working on a multitude of passion projects and tools at the moment to improve my coding skills. 
+I am mostly interested in NLP tasks as that was my minor in my double major:
 * General French Philology
-* Linguistics with a minor in Computational Linguistics.
+* Linguistics with a minor in Computational Linguistics
 
 ### Languages
 
-Besides programming, I am very much interested in languages.
+Besides programming, I am very much interested in languages: 
 * English (Native)
 * German (C2)
 * French (C1)
-* Japanese (C1)
+* Japanese (A2)
 * I have also dabbled in
-    * Russian, Italian, Korean, Chinese, and Spanish
+    * Russian, Italian, Korean, Chinese, Portuguese, Dutch and Spanish
 
 ### Literature
-My love for languages also extends to poetry. I am currently working on a couple of poetry books. I have been writing poetry for almost 15 years now and I would consider it to be a greater passion of mine than even coding.
-I enjoy reading novels, especially non-fiction. At the moment, I spend a lot of time reading on my kindle whenever I get the chance.
+My love for languages also extends to poetry. I am currently working on a couple of poetry books. 
+I have been writing poetry for almost 15 years now, and I would consider it to be a greater passion of mine than even coding.
+I enjoy reading novels, especially non-fiction. 
+At the moment, I spend a lot of time reading on my Kindle whenever I get the chance.
 
 ### Podcast
 
-I am super into podcasts and I have created one of my own
-where I talk about [American culture](https://open.spotify.com/show/1PJKOQG5hVyZRTNrs2IwBl) with my co-host. Feel free to check it out!
+I am super into podcasts, and I have created one of my own
+where I talk about [American culture](https://open.spotify.com/show/1PJKOQG5hVyZRTNrs2IwBl) with my co-host. 
+Feel free to check it out!
 
 ## Goals
-I want to contribute to worthwhile projects and improve my coding skills. I also hope to be able to teach coding to those who are willing to learn.
+I want to contribute to worthwhile projects and improve my coding skills. 
+I also hope to be able to teach coding to those who are willing to learn.
 My goal is to get into deep learning to better perform NLP tasks and to understand the deeper side of things.
 
 
