@@ -126,17 +126,12 @@ please feel free to contact me. Maybe we can both discover something new, who kn
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- CONTACT -->
 ## Contact
 
 Christopher Chandler - christopher.chandler@outlook.de
-
-Project Link: [https://github.com/christopher-chandler/repo_name](https://github.com/christopher-chandler/repo_name)
-
+ 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
