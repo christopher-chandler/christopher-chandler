@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/christopher-chandler/repo_name">
-    <img src="readme_img/logo.png" alt="Logo" width="250" height="250">
+    <img src="readme_img/logo.png" alt="Logo" width="150" height="150">
   </a>
 
  
@@ -21,6 +21,8 @@
     <br />
 </div>
 
+![Overview](https://github-readme-stats.vercel.app/api?username=christopher-chandler&theme=cobalt)
+![Overview](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-chandler&theme=cobalt)
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -28,27 +30,22 @@
   <ol>
     <li>
       <a href="#Introduction">Introduction</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#About-me">About me</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+        <li><a href="#prerequisites">Languages</a></li>
+        <li><a href="#installation">Literature</a></li>
+        <li><a href="#installation">Podcast</a></li>
+       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
+ 
 ## Introduction 
 
 Hello everyone, my name is Christopher Chandler, and I am an aspiring programmer! 
@@ -57,64 +54,38 @@ If you do not speak Japanese, please simply call me Chris!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Overview of Github Stats 
-
-![Overview](https://github-readme-stats.vercel.app/api?username=christopher-chandler&theme=cobalt)
-
-![Overview](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-chandler&theme=cobalt)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## About me
 
 ## About me
-
 I am an American  based in Germany. I have been interested in computers for my whole life, but I got into programming at the end of 2019. I am working on a multitude of passion projects and tools at the moment to improve my coding skills. I am mostly interested in NLP tasks, as that was my minor in my double major:
 * General French Philology
 * Linguistics with a minor in Computational Linguistics.
 
-## Hobbies
-
 ### Languages
 
-Besides programming, I am very much interseted in languages.
+Besides programming, I am very much interested in languages.
 * English (Native)
 * German (C2)
 * French (C1)
 * Japanese (C1)
-* I have also Dabelled in
+* I have also dabbled in
     * Russian, Italian, Korean, Chinese, and Spanish
 
-### Poetry
+### Literature
 My love for languages also extends to poetry. I am currently working on a couple of poetry books. I have been writing poetry for almost 15 years now and I would consider it to be a greater passion of mine than even coding.
-
-### Reading
-I enjoy reading novels, espeically non-fiction. At the moment, I spend a lot of time reading on my kindle whenver I get the chance.
+I enjoy reading novels, especially non-fiction. At the moment, I spend a lot of time reading on my kindle whenever I get the chance.
 
 ### Podcast
 
 I am super into podcasts and I have created one of my own
 where I talk about [American culture](https://open.spotify.com/show/1PJKOQG5hVyZRTNrs2IwBl) with my co-host. Feel free to check it out!
 
-
 ## Goals
 I want to contribute to worthwhile projects and improve my coding skills. I also hope to be able to teach coding to those who are willing to learn.
 My goal is to get into deep learning to better perform NLP tasks and to understand the deeper side of things.
 
 
-
-
-
-
-
-
-
-
 <!-- CONTRIBUTING -->
-## Contributing
+## Collaboration
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create.
 Any contributions you make are **greatly appreciated**.
@@ -130,9 +101,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
- 
 
 <!-- CONTACT -->
 ## Contact
