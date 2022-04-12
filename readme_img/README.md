@@ -16,7 +16,7 @@ If you speak Japanese, feel free to call me 栗栖! If you do not speak Japanese
 [i2pdf](https://github.com/christopher-chandler/i2pdf)
 
 
-![gift](giphy.gif)
+![gift](../giphy.gif)
 
 Note: 
 If you speak Japanese, you will get the gif :) 
