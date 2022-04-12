@@ -121,11 +121,11 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+I am highly interested in collaborating. Even if it is not within the realm of deep learning or NLP,
+please feel free to contact me. Maybe we can both discover something new, who knows?
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-I am highly interested in colloborating. Even if it is not within the realm of deep learning or NLP,
-please feel free to contact me. Maybe we can both discover something new, who knows? 
 
 <!-- CONTACT -->
 ## Contact
@@ -135,6 +135,7 @@ Christopher Chandler - christopher.chandler@outlook.de
 Project Link: [https://github.com/christopher-chandler/repo_name](https://github.com/christopher-chandler/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 <!-- ACKNOWLEDGMENTS -->
