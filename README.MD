@@ -13,17 +13,12 @@
 [![Stargazers][stars-shield]][stars-url]
 
 
-
-<h3 align="center">project_title</h3>
+<h3 align="center">Christopher M. Chandler </h3>
 
   <p align="center">
-    project_description
+    An aspiring programmer who wants to specialise in NLP and deep learning.
     <br />
     <br />
-    <a href="https://github.com/christopher-chandler/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/christopher-chandler/repo_name/issues">Request Feature</a>
-  </p>
 </div>
 
 
@@ -32,7 +27,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#Introduction">Introduction</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -54,90 +49,67 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Introduction 
 
-<div align="center">
-  <a href="https://github.com/christopher-chandler/repo_name">
-    <img src="readme_img/logo.png" alt="Logo" width="80" height="80">
-  </a>
-</div>
+Hello everyone, my name is Christopher Chandler, and I am an aspiring programmer! 
+If you speak Japanese, then please feel free to call me <ruby><rb>栗栖</rb><rt>くりす</rt><ruby>! 
+If you do not speak Japanese, please simply call me Chris!
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### Overview of Github Stats 
 
+![Overview](https://github-readme-stats.vercel.app/api?username=christopher-chandler&theme=cobalt)
 
-### Built With
-
-A list of frameworks that were used in developing the program.
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+![Overview](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-chandler&theme=cobalt)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## About me
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+## About me
 
-### Prerequisites
+I am an American  based in Germany. I have been interested in computers for my whole life, but I got into programming at the end of 2019. I am working on a multitude of passion projects and tools at the moment to improve my coding skills. I am mostly interested in NLP tasks, as that was my minor in my double major:
+* General French Philology
+* Linguistics with a minor in Computational Linguistics.
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+## Hobbies
 
-### Installation
+### Languages
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/christopher-chandler/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+Besides programming, I am very much interseted in languages.
+* English (Native)
+* German (C2)
+* French (C1)
+* Japanese (C1)
+* I have also Dabelled in
+    * Russian, Italian, Korean, Chinese, and Spanish
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+### Poetry
+My love for languages also extends to poetry. I am currently working on a couple of poetry books. I have been writing poetry for almost 15 years now and I would consider it to be a greater passion of mine than even coding.
 
+### Reading
+I enjoy reading novels, espeically non-fiction. At the moment, I spend a lot of time reading on my kindle whenver I get the chance.
+
+### Podcast
+
+I am super into podcasts and I have created one of my own
+where I talk about [American culture](https://open.spotify.com/show/1PJKOQG5hVyZRTNrs2IwBl) with my co-host. Feel free to check it out!
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used.
-Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-For more examples, please refer to the [Documentation](https://example.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+## Goals
+I want to contribute to worthwhile projects and improve my coding skills. I also hope to be able to teach coding to those who are willing to learn.
+My goal is to get into deep learning to better perform NLP tasks and to understand the deeper side of things.
 
 
 
-<!-- ROADMAP -->
-## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
 
-See the [open issues](https://github.com/christopher-chandler/repo_name/issues) for a full list of proposed
-features (and known issues).
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 
@@ -160,15 +132,7 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+ 
 
 <!-- CONTACT -->
 ## Contact
@@ -184,9 +148,9 @@ Project Link: [https://github.com/christopher-chandler/repo_name](https://github
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+My friend who created the logo for my Github account.  
+* Yohanna Camaran - yohannacamarana at gmail dot com
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -204,6 +168,4 @@ Project Link: [https://github.com/christopher-chandler/repo_name](https://github
 [license-url]: https://github.com/christopher-chandler/repo_name/blob/master/LICENSE.txt
 
 [download-shield]: https://img.shields.io/github/downloads/christopher-chandler/repo_name/total
- 
-
 [update-shield]: https://img.shields.io/badge/Last_Updated-MONTH_YEAR-blue
