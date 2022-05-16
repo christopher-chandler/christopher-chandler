@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/christopher-chandler/repo_name">
-<img src="readme_img/background.jpg" alt="Logo" width="1000" height="200" ><br>
+<img src="readme_img/background.jpg" alt="Logo" width="640" height="360" ><br>
     <img src="readme_img/logo.png" alt="Logo" width="150" height="150">
   </a>
 
